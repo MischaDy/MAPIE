@@ -6,7 +6,7 @@ What to work on?
 ----------------
 
 You are welcome to propose and contribute new ideas.
-We encourage you to `open an issue <https://github.com/scikit-learn-contrib/MAPIE/issues>`so that we can align on the work to be done.
+We encourage you to `open an issue <https://github.com/scikit-learn-contrib/MAPIE/issues>`_ so that we can align on the work to be done.
 It is generally a good idea to have a quick discussion before opening a pull request that is potentially out-of-scope.
 
 Fork/clone/pull
@@ -42,7 +42,7 @@ Finally install `mapie` in development mode:
 
 .. code:: sh
 
-    pip install -e .
+    $ pip install -e .
 
 
 Documenting your change
